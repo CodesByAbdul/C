@@ -1,4 +1,4 @@
-
+/*
 //Example 1: call-back function pointers
 
 #include <stdio.h>
@@ -31,6 +31,7 @@ int average(int (*ptSum)(int, int), int a, int b){
   int n = ptSum(a, b);
   return (n/2);
 }
+*/
 
 // Example 2: Array of function pointers
 
